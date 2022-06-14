@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               const Text(
-                'Counter App menggunakan State Management Flutter',
+                'Counter App menggunakan State Management Flutter Default',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16),
               ),
